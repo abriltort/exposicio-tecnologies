@@ -5,7 +5,7 @@
 Node.js es un entorno que permite ejecutar JavaScript fuera del navegador.  
 Antes, JavaScript solo funcionaba dentro del navegador, pero con Node.js también se puede usar en un servidor.
 
-**¿Por qué es importante?**  
+**¿Por qué es importante?** 
 - Permite trabajar en Front-End y Back-End con el mismo lenguaje (Full-Stack).  
 - Es muy rápido gracias al motor V8 de Google Chrome.  
 - Ideal para crear:  
